@@ -15,4 +15,4 @@ View the [Getting Started Guide](https://remarkabledocs.com) for a full list of 
 
 ## License
 
-Copyright (c) 2017 Chris Yongchu. [MIT license](https://remarkabledocs.com/etc/blob/master/licenses/MIT).
+Copyright (c) 2018 Chris Yongchu. [MIT license](https://remarkabledocs.com/etc/blob/master/licenses/MIT).
